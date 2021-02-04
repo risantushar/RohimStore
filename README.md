@@ -1,6 +1,9 @@
 # RohimStore
 This is an simple laravel ajax project
 
+#Product List table
+![image](https://user-images.githubusercontent.com/62894946/106870610-7f177400-66fb-11eb-976e-61fddd565244.png)
+
 
 #This is an create product form which is a modal.
 
