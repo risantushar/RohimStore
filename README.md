@@ -1,5 +1,18 @@
 # RohimStore
 This is an simple laravel ajax project
 
-This is the product list where you can Create, Update, Edit , Delete products.
-![image](https://user-images.githubusercontent.com/62894946/106869287-f3511800-66f9-11eb-8a01-b14631c56852.png)
+
+#This is an create product form which is a modal.
+
+![image](https://user-images.githubusercontent.com/62894946/106869576-4cb94700-66fa-11eb-9a17-6077ebdd8b46.png)
+
+#Edit Product Modal
+
+![image](https://user-images.githubusercontent.com/62894946/106869762-7ffbd600-66fa-11eb-8894-7922fb21ad55.png)
+
+#product view page with price filter
+
+![image](https://user-images.githubusercontent.com/62894946/106869917-ad488400-66fa-11eb-8a2e-92fb7f3fe445.png)
+
+
+
